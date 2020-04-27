@@ -1,0 +1,21 @@
+<div class="panel panel-pithy posts">
+    <div class="panel-heading">
+      <h3 class="title">
+        <a href="{{ post.url | prepend: site.baseurl}}"><i class="fa fa-bookmark-o"></i>{{post.title}}</a>
+      </h3>
+    </div>
+    <div class="panel-body excerpt">
+        
+          {{ post.content | strip_html | strip_newlines | truncate: 260 }}
+        
+    </div>
+    <div class="panel-footer operate">
+        <div class="pull-right">
+          <span class="time"> <i class="fa fa-clock-o"></i>&nbsp;{{ post.date | date: "%d:%m:%Y"}}</span>
+          <a class="read" href="{{ post.url | prepend: site.baseurl }}#post-content"><i
+                  class="fa fa-gg"></i>&nbsp;Read full article..</a>
+          
+        </div>
+        <div class="clearfix"></div>
+    </div>
+</div>

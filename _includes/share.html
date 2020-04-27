@@ -1,0 +1,24 @@
+<div class="panel-footer operate">
+   <div class="pull-left">
+      <div class="ds-share flat" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-images=""
+         data-content="{{page.title}}" data-url="{{page.url | prepend: site.url | prepend: site.baseurl}}">
+         <div class="ds-share-inline">
+            <div class="crunchify-social">
+               <h5>SHARE ON</h5>
+               <a class="crunchify-link crunchify-twitter" href="https://twitter.com/intent/tweet?text={{page.title}}url={{page.url | prepend: site.url | prepend: site.baseurl}}"; target="_blank">Twitter</a>
+               
+               <a class="crunchify-link crunchify-facebook" href="https://www.facebook.com/sharer/sharer.php?u={{page.url | prepend: site.url | prepend: site.baseurl}}" target="_blank">Facebook</a>
+               
+               <a class="crunchify-link crunchify-whatsapp" href="whatsapp://send?text={{page.title}} {{page.url | prepend: site.url | prepend: site.baseurl}}" target="_blank">WhatsApp</a>
+               
+               <a class="crunchify-link crunchify-googleplus" href="https://plus.google.com/share?url={{page.url | prepend: site.url | prepend: site.baseurl}}" target="_blank">Google+</a>
+               
+               <a class="crunchify-link crunchify-linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{page.url | prepend: site.url | prepend: site.baseurl}};title={{page.title}}" target="_blank">LinkedIn</a>
+               
+               <a class="crunchify-link crunchify-pinterest" href="https://pinterest.com/pin/create/button/?url={{page.url | prepend: site.url | prepend: site.baseurl}} media=https://karmabhumi.org/wp-content/uploads/2017/01/experience.jpeg&amp;description={{page.title}}" target="_blank">Pin It</a>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="clearfix"></div>
+</div>

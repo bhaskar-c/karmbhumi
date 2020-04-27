@@ -1,0 +1,45 @@
+$gray-darkest       : #333;
+$gray-darker        : #666;
+$gray-dark          : #999;
+$gray               : #ccc;
+$gray-light         : #ddd;
+$gray-lighter       : #eee;
+$gray-lightest      : #f8f8f8;
+
+$black              : #333;
+$white              : #FFFFFF;
+$cyan               : #006064;
+$red                : #e74c3c;
+$purple             : #493252;
+$slate              : #3d4260;
+$green               : #1a237e;
+
+$primary-color      : lighten($green,5%);
+$secondary-color    : $gray-dark;
+
+$cover-secondary : rgba(#5f2c82, .1);
+$cover-primary   : rgba(#49a09d, .2);
+
+
+$mobile-primary     : $gray-darkest;
+
+$link-color         : lighten($gray-darker,5%);
+$hover-color        : darken($gray-darker,10%);
+
+
+$unit               : 1rem;
+
+$sans-font          : 'Helvetica Neue', Helvetica, 'SimSun', sans-serif;
+$serif-font         : 'Roboto Slab', serif;
+$code-font          : Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+$quote-font         : "freight-text-pro", Georgia, Cambria, "Times New Roman", Times, serif;
+
+$font-size-tiny     : 1rem;
+$font-size-small    : 1.4rem;
+$font-size-normal   : 1.8rem;
+$font-size-big      : 2.4rem;
+$font-size-huge     : 2.86rem;
+
+$font-weight-thin   : 100;
+$font-weight-normal : 300;
+$font-weight-bold   : 700;

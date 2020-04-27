@@ -1,0 +1,22 @@
+<div class="panel panel-default categories">
+    <div class="panel-heading title">
+        All Categories
+    </div>
+    <div class="panel-body list">
+        <ul>
+          <li>
+              <a class="catelink" href="{{site.baseurl}}/category/#all" data-target-cate="#all">
+                  All Categories<span class="count">[{{ site.posts.size }}]</span>
+              </a>
+          </li>
+          {% for category in site.categories %}
+          <li>
+              <a class="catelink" href="{{site.baseurl}}/category/#{{category.first}}" data-target-cate="#{{category.first}}">
+                  {{ category.first }}&nbsp;<span class="count">[{{ category.last.size }}]</span>
+              </a>
+          </li>
+
+          {% endfor %}
+        </ul>
+    </div>
+</div>

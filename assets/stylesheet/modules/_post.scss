@@ -1,0 +1,99 @@
+.hindi { 
+font-family:"Noto Sans","Noto Sans Devanagari";
+color: #555;
+}
+.doha {
+position: relative;
+padding: 2em 1em;
+margin: 1em 0em 1em;
+-webkit-box-shadow: 0px 3px 7px 1px #ddd;
+-moz-box-shadow: 0px 3px 7px 1px #ddd;
+box-shadow: 0px 3px 7px 1px #ddd;
+color: #555;
+}
+.original {
+text-align: center;
+font-style: italic;
+color: #555;
+}
+.hindi,.eng{
+margin-bottom: 10px;
+color: #555;
+}
+.post{
+  ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .title{
+    padding: 0;
+    margin: 0;
+    font-size: $font-size-big;
+    color: $gray-darker;
+
+    i{
+      color: $primary-color;
+      margin-right: $font-size-small;
+    }
+  }
+
+  .info{
+    margin-top: 10px;
+    color: $gray-dark;
+    li{
+      display: inline-block;
+      margin-right: 5px;
+    }
+
+    .author{
+      color: $primary-color;
+    }
+    .tag{
+      color: $primary-color;
+      &::before,&::after{
+        color: $white;
+      }
+    }
+
+    .tag::before{
+      content: '['
+    }
+    .tag::after{
+      content: ']'
+    }
+    .tag:hover{
+      color: $green;
+      text-decoration: none;
+      &::before,&::after{
+        color: $green;
+      }
+    }
+  }
+  .excerpt{
+    color: $gray-dark;
+  }
+
+  .content{
+    ul{
+      list-style: disc inside;
+    }
+  }
+
+  .operate{
+    a,span{
+      color: $gray-dark;
+      margin-left: 3px;
+    }
+    a:hover{
+      color: $gray-darker;
+      text-decoration: none;
+    }
+  }
+
+  img{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+  }
+}
