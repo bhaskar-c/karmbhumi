@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (Chain/बन्धन)
 date: 2016-10-14T09:37:12+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=112
+guid: http://karmbhumi.in/?p=112
 permalink: /kabir-chain/
 image: /wp-content/uploads/2016/10/metal-chain-1411863.jpg
 categories:

@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (Faith/विश्व�
 date: 2016-06-09T08:32:26+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=38
+guid: http://karmbhumi.in/?p=38
 permalink: /kabir-faith/
 image: /wp-content/uploads/2016/06/leap-of-faith-1436662.jpg
 categories:

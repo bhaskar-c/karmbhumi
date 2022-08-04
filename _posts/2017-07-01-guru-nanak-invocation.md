@@ -4,7 +4,7 @@ title: गुरू नानक के दोहे | Guru Nanak ke Dohe(मं
 date: 2017-07-01T11:23:34+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=237
+guid: http://karmbhumi.in/?p=237
 permalink: /guru-nanak-invocation/
 image: /wp-content/uploads/2016/09/prayer-devotion-hands-2-1307826.jpg
 categories:

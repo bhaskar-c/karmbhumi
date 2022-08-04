@@ -4,7 +4,7 @@ title: तुलसीदास के दोहे | Tulsidas ke Dohe(विव
 date: 2017-06-26T11:35:12+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=219
+guid: http://karmbhumi.in/?p=219
 permalink: /tulsidas-wisdom/
 image: /wp-content/uploads/2016/09/thinking-kid-1428260.jpg
 categories:

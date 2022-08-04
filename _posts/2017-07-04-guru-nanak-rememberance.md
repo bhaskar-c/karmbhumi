@@ -4,7 +4,7 @@ title: गुरू नानक के दोहे | Guru Nanak ke Dohe(प्
 date: 2017-07-04T09:52:21+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=248
+guid: http://karmbhumi.in/?p=248
 permalink: /guru-nanak-rememberance/
 image: /wp-content/uploads/2016/06/passionate-prayer-1315195.jpg
 categories:

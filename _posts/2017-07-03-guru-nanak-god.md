@@ -4,7 +4,7 @@ title: गुरू नानक के दोहे | Guru Nanak ke Dohe(ईश
 date: 2017-07-03T06:46:15+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=245
+guid: http://karmbhumi.in/?p=245
 permalink: /guru-nanak-god/
 image: /wp-content/uploads/2016/06/passionate-prayer-1315195.jpg
 categories:

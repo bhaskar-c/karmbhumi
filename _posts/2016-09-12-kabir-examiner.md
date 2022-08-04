@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (Examiner/पारख�
 date: 2016-09-12T17:29:41+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=57
+guid: http://karmbhumi.in/?p=57
 permalink: /kabir-examiner/
 image: /wp-content/uploads/2016/09/examiner-646x363.jpg
 categories:

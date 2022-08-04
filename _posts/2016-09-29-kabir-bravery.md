@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (Bravery/वीरता
 date: 2016-09-29T08:19:25+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=97
+guid: http://karmbhumi.in/?p=97
 permalink: /kabir-bravery/
 image: /wp-content/uploads/2016/09/a-brave-jump-1511755.jpg
 categories:

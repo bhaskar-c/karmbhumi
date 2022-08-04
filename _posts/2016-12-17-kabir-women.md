@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (नारी/Women)
 date: 2016-12-17T18:14:31+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=132
+guid: http://karmbhumi.in/?p=132
 permalink: /kabir-women/
 image: /wp-content/uploads/2016/12/fire-girl-1-1171977.jpg
 categories:

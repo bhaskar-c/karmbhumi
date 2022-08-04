@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (Greed/लोभ)
 date: 2016-09-15T09:36:35+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=61
+guid: http://karmbhumi.in/?p=61
 permalink: /kabir-greed/
 image: /wp-content/uploads/2016/09/greed.jpg
 categories:
@@ -103,4 +103,4 @@ tags:
   </div>
 </div>
 
-<img src="http://karmabhumi.org/wp-content/uploads/2016/09/greed-300x209.jpg" alt="greed" width="300" height="209" class="alignleft size-medium wp-image-62" />
+<img src="http://karmbhumi.in/wp-content/uploads/2016/09/greed-300x209.jpg" alt="greed" width="300" height="209" class="alignleft size-medium wp-image-62" />

@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (Search/तलाश)
 date: 2016-05-27T08:45:43+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=27
+guid: http://karmbhumi.in/?p=27
 permalink: /kabir-search/
 image: /wp-content/uploads/2016/05/closer-look-2-1309637.jpg
 categories:

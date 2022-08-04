@@ -4,7 +4,7 @@ title: तुलसीदास के दोहे | Tulsidas ke Dohe (अह�
 date: 2017-06-06T07:25:54+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=207
+guid: http://karmbhumi.in/?p=207
 permalink: /tulsidas-ego/
 image: /wp-content/uploads/2017/06/ego.jpg
 categories:

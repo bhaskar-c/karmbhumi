@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (सेवक/Servant)
 date: 2016-12-09T19:42:31+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=128
+guid: http://karmbhumi.in/?p=128
 permalink: /kabir-servant/
 image: /wp-content/uploads/2016/12/praying-hands-1544500.jpg
 categories:

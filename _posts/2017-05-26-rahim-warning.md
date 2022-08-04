@@ -4,7 +4,7 @@ title: रहीम के दोहे | Rahim ke Dohe ( चेतावनी/
 date: 2017-05-26T07:33:01+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=187
+guid: http://karmbhumi.in/?p=187
 permalink: /rahim-warning/
 image: /wp-content/uploads/2016/10/warning-sign-1445215.jpg
 categories:

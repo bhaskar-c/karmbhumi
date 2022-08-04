@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (Scholar/ज्ञान
 date: 2016-06-25T05:30:08+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=42
+guid: http://karmbhumi.in/?p=42
 permalink: /kabir-scholar/
 image: /wp-content/uploads/2016/06/book-look-1236567.jpg
 categories:

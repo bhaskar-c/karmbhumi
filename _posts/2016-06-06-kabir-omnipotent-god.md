@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (Omnipotent God/सर�
 date: 2016-06-06T17:38:44+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=35
+guid: http://karmbhumi.in/?p=35
 permalink: /kabir-omnipotent-god/
 image: /wp-content/uploads/2016/06/omnipotence-1367644.jpg
 categories:

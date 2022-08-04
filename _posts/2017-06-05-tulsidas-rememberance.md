@@ -4,7 +4,7 @@ title: तुलसीदास के दोहे | Tulsidas ke Dohe (सु�
 date: 2017-06-05T10:52:06+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=205
+guid: http://karmbhumi.in/?p=205
 permalink: /tulsidas-rememberance/
 image: /wp-content/uploads/2016/06/passionate-prayer-1315195.jpg
 categories:

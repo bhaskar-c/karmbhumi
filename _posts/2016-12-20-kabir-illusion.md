@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (माया/Illusion)
 date: 2016-12-20T05:42:08+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=135
+guid: http://karmbhumi.in/?p=135
 permalink: /kabir-illusion/
 image: /wp-content/uploads/2016/12/illusion.jpg
 categories:

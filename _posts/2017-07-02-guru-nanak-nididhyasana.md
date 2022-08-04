@@ -4,7 +4,7 @@ title: गुरू नानक के दोहे | Guru Nanak ke Dohe(नि
 date: 2017-07-02T11:42:39+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=242
+guid: http://karmbhumi.in/?p=242
 permalink: /guru-nanak-nididhyasana/
 categories:
   - Guru Nanak

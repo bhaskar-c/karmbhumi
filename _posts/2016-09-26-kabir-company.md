@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (Company/संगति
 date: 2016-09-26T19:32:35+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=79
+guid: http://karmbhumi.in/?p=79
 permalink: /kabir-company/
 image: /wp-content/uploads/2016/09/friends-1385113.jpg
 categories:

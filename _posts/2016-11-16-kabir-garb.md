@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (वेश/garb)
 date: 2016-11-16T07:53:19+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=116
+guid: http://karmbhumi.in/?p=116
 permalink: /kabir-garb/
 image: /wp-content/uploads/2016/11/mask-1439054.jpg
 categories:

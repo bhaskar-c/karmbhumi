@@ -4,7 +4,7 @@ title: तुलसीदास के दोहे | Tulsidas ke Dohe ( गु�
 date: 2017-06-04T11:02:17+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=199
+guid: http://karmbhumi.in/?p=199
 permalink: /tulsidas-teacher/
 image: /wp-content/uploads/2016/10/hands-1314623.jpg
 categories:

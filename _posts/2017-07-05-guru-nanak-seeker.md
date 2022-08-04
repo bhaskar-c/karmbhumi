@@ -4,7 +4,7 @@ title: गुरू नानक के दोहे | Guru Nanak ke Dohe(सा
 date: 2017-07-05T10:06:03+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=255
+guid: http://karmbhumi.in/?p=255
 permalink: /guru-nanak-seeker/
 image: /wp-content/uploads/2016/09/a-brave-jump-1511755.jpg
 categories:

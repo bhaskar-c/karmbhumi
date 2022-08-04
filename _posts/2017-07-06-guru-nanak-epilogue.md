@@ -4,7 +4,7 @@ title: गुरू नानक के दोहे | Guru Nanak ke Dohe(उप
 date: 2017-07-06T11:34:38+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=257
+guid: http://karmbhumi.in/?p=257
 permalink: /guru-nanak-epilogue/
 image: /wp-content/uploads/2016/12/illusion.jpg
 categories:

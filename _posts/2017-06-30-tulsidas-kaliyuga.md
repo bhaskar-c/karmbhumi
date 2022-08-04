@@ -4,7 +4,7 @@ title: तुलसीदास के दोहे | Tulsidas ke Dohe(कलि
 date: 2017-06-30T10:29:04+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=223
+guid: http://karmbhumi.in/?p=223
 permalink: /tulsidas-kaliyuga/
 image: /wp-content/uploads/2016/09/advice_about_life.jpg
 categories:

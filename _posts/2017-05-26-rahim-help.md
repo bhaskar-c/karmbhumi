@@ -4,7 +4,7 @@ title: रहीम के दोहे | Rahim ke Dohe (मदद/Help)
 date: 2017-05-26T05:11:58+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=180
+guid: http://karmbhumi.in/?p=180
 permalink: /rahim-help/
 image: /wp-content/uploads/2016/10/hands-1314623.jpg
 categories:

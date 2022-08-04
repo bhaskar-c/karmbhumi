@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (Advice/सलाह)
 date: 2016-09-25T17:41:04+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=76
+guid: http://karmbhumi.in/?p=76
 permalink: /kabir-advice/
 image: /wp-content/uploads/2016/09/advice_about_life.jpg
 categories:

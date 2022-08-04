@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (Saints/संतजन)
 date: 2016-05-21T17:50:17+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=6
+guid: http://karmbhumi.in/?p=6
 permalink: /kabir-on-saints/
 image: /wp-content/uploads/2016/05/kabir.jpg
 categories:

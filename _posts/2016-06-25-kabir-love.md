@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (Love/प्रेम)
 date: 2016-06-25T17:20:46+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=45
+guid: http://karmbhumi.in/?p=45
 permalink: /kabir-love/
 image: /wp-content/uploads/2016/06/love-1329977.jpg
 categories:

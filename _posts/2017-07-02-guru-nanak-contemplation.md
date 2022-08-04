@@ -4,7 +4,7 @@ title: गुरू नानक के दोहे | Guru Nanak ke Dohe(मन
 date: 2017-07-02T11:24:51+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=240
+guid: http://karmbhumi.in/?p=240
 permalink: /guru-nanak-contemplation/
 image: /wp-content/uploads/2016/09/thinking-kid-1428260.jpg
 categories:

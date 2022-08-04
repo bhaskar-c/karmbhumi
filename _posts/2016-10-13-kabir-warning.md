@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (Warning/चेताव
 date: 2016-10-13T05:32:44+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=108
+guid: http://karmbhumi.in/?p=108
 permalink: /kabir-warning/
 image: /wp-content/uploads/2016/10/warning-sign-1445215.jpg
 categories:

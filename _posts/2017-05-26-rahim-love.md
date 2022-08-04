@@ -4,7 +4,7 @@ title: रहीम के दोहे | Rahim ke Dohe (प्रेम/Love)
 date: 2017-05-26T04:57:01+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=176
+guid: http://karmbhumi.in/?p=176
 permalink: /rahim-love/
 image: /wp-content/uploads/2016/06/love-1329977.jpg
 categories:

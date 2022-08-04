@@ -4,7 +4,7 @@ title: रहीम के दोहे | Rahim ke Dohe (समय/Time)
 date: 2017-05-25T16:36:50+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=173
+guid: http://karmbhumi.in/?p=173
 permalink: /rahim-time/
 image: /wp-content/uploads/2017/05/time-1196952.jpg
 categories:

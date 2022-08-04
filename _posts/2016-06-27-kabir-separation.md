@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (Separation/विरह
 date: 2016-06-27T17:44:15+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=48
+guid: http://karmbhumi.in/?p=48
 permalink: /kabir-separation/
 image: /wp-content/uploads/2016/06/waiting-1-1229629.jpg
 categories:

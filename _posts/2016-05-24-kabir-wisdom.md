@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (Wisdom/बुद्ध�
 date: 2016-05-24T12:03:28+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=20
+guid: http://karmbhumi.in/?p=20
 permalink: /kabir-wisdom/
 image: /wp-content/uploads/2016/05/wisdom.jpg
 categories:

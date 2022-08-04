@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (Rememberance/ईश्�
 date: 2016-06-05T18:15:10+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=32
+guid: http://karmbhumi.in/?p=32
 permalink: /rememberance/
 image: /wp-content/uploads/2016/06/passionate-prayer-1315195.jpg
 categories:

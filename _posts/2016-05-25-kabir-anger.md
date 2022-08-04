@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (Anger/क्रोध)
 date: 2016-05-25T15:51:15+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=23
+guid: http://karmbhumi.in/?p=23
 permalink: /kabir-anger/
 image: /wp-content/uploads/2016/05/hand-1313230-1.jpg
 categories:

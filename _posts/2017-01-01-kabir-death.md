@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (काल/Death)
 date: 2017-01-01T12:15:03+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=139
+guid: http://karmbhumi.in/?p=139
 permalink: /kabir-death/
 image: /wp-content/uploads/2017/01/death.jpg
 categories:

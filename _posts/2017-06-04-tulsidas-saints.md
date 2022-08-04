@@ -4,7 +4,7 @@ title: तुलसीदास के दोहे | Tulsidas ke Dohe (सं�
 date: 2017-06-04T11:38:27+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=201
+guid: http://karmbhumi.in/?p=201
 permalink: /tulsidas-saints/
 image: /wp-content/uploads/2016/12/praying-hands-1544500.jpg
 categories:

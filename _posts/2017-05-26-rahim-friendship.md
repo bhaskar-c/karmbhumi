@@ -4,7 +4,7 @@ title: रहीम के दोहे | Rahim ke Dohe (मित्रता/F
 date: 2017-05-26T05:22:41+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=183
+guid: http://karmbhumi.in/?p=183
 permalink: /rahim-friendship/
 image: /wp-content/uploads/2016/09/friends-1385113.jpg
 categories:

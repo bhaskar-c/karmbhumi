@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (Speech/वाणी)
 date: 2016-10-04T21:45:38+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=103
+guid: http://karmbhumi.in/?p=103
 permalink: /kabir-speech/
 image: /wp-content/uploads/2016/10/speech-monkey.jpg
 categories:

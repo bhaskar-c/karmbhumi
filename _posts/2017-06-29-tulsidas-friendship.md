@@ -4,7 +4,7 @@ title: तुलसीदास के दोहे | Tulsidas ke Dohe(मित
 date: 2017-06-29T11:41:46+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=221
+guid: http://karmbhumi.in/?p=221
 permalink: /tulsidas-friendship/
 image: /wp-content/uploads/2016/09/friends-1385113.jpg
 categories:

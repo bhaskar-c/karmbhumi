@@ -4,7 +4,7 @@ title: रहीम के दोहे | Rahim ke Dohe (बड़प्पन/Grea
 date: 2017-05-25T16:00:19+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=171
+guid: http://karmbhumi.in/?p=171
 permalink: /rahim-greatness/
 image: /wp-content/uploads/2016/06/omnipotence-1367644.jpg
 categories:

@@ -4,7 +4,7 @@ title: पातंजलि योग सूत्र
 date: 2020-01-17T05:51:34+00:00
 author: bha10071
 layout: post
-guid: https://karmabhumi.org/?p=318
+guid: https://karmbhumi.in/?p=318
 permalink: /patanjali-yoga-sutra/
 categories:
   - Uncategorized

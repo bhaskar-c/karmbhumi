@@ -4,9 +4,9 @@ title: Adi Shankaracharya
 date: 2019-11-06T09:53:02+00:00
 author: bha10071
 layout: page
-guid: https://karmabhumi.org/?page_id=291
+guid: https://karmbhumi.in/?page_id=291
 ---
-<img class="attachment-debut-featured size-debut-featured wp-post-image" style="width: 150px;" src="https://karmabhumi.org/wp-content/uploads/2019/11/shankaracharya.png" alt="aadi shankaracharya" /> 
+<img class="attachment-debut-featured size-debut-featured wp-post-image" style="width: 150px;" src="https://karmbhumi.in/wp-content/uploads/2019/11/shankaracharya.png" alt="aadi shankaracharya" /> 
 
 ## जीवन वृतांत
 
@@ -32,7 +32,7 @@ guid: https://karmabhumi.org/?page_id=291
 
 ## Teachings
 
-  * [श्री ईशोपनिषद – आदि शंकराचायॆ | Shri Ishopanishad by Adi Shankaracharya](https://karmabhumi.org/%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%88%e0%a4%b6%e0%a5%8b%e0%a4%aa%e0%a4%a8%e0%a4%bf%e0%a4%b7%e0%a4%a6-%e0%a4%86%e0%a4%a6%e0%a4%bf-%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0%e0%a4%be%e0%a4%9a/)
-  * [आदि शंकराचायॆ: परम व्रम्ह परमात्मा](https://karmabhumi.org/%E0%A4%86%E0%A4%A6%E0%A4%BF-%E0%A4%B6%E0%A4%82%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%AF%E0%A5%86-%E0%A4%AA%E0%A4%B0%E0%A4%AE-%E0%A4%B5%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D%E0%A4%B9/)
-  * [आदि शंकराचायॆ: त्याग की महत्ता](https://karmabhumi.org/%E0%A4%86%E0%A4%A6%E0%A4%BF-%E0%A4%B6%E0%A4%82%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%AF%E0%A5%86-%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%97-%E0%A4%95%E0%A5%80-%E0%A4%AE%E0%A4%B9/)
-  * [आदि शंकराचायॆ: अग्यान](https://karmabhumi.org/%E0%A4%86%E0%A4%A6%E0%A4%BF-%E0%A4%B6%E0%A4%82%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%AF%E0%A5%86-%E0%A4%85%E0%A4%97%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8/)
+  * [श्री ईशोपनिषद – आदि शंकराचायॆ | Shri Ishopanishad by Adi Shankaracharya](https://karmbhumi.in/%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%88%e0%a4%b6%e0%a5%8b%e0%a4%aa%e0%a4%a8%e0%a4%bf%e0%a4%b7%e0%a4%a6-%e0%a4%86%e0%a4%a6%e0%a4%bf-%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0%e0%a4%be%e0%a4%9a/)
+  * [आदि शंकराचायॆ: परम व्रम्ह परमात्मा](https://karmbhumi.in/%E0%A4%86%E0%A4%A6%E0%A4%BF-%E0%A4%B6%E0%A4%82%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%AF%E0%A5%86-%E0%A4%AA%E0%A4%B0%E0%A4%AE-%E0%A4%B5%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D%E0%A4%B9/)
+  * [आदि शंकराचायॆ: त्याग की महत्ता](https://karmbhumi.in/%E0%A4%86%E0%A4%A6%E0%A4%BF-%E0%A4%B6%E0%A4%82%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%AF%E0%A5%86-%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%97-%E0%A4%95%E0%A5%80-%E0%A4%AE%E0%A4%B9/)
+  * [आदि शंकराचायॆ: अग्यान](https://karmbhumi.in/%E0%A4%86%E0%A4%A6%E0%A4%BF-%E0%A4%B6%E0%A4%82%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%AF%E0%A5%86-%E0%A4%85%E0%A4%97%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8/)

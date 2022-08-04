@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (Mind/मन)
 date: 2016-09-21T16:53:50+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=73
+guid: http://karmbhumi.in/?p=73
 permalink: /kabir-mind/
 image: /wp-content/uploads/2016/09/thinking-kid-1428260.jpg
 categories:

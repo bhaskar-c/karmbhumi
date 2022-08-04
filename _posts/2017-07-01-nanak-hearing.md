@@ -4,7 +4,7 @@ title: गुरू नानक के दोहे | Guru Nanak ke Dohe(श्
 date: 2017-07-01T10:55:24+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=228
+guid: http://karmbhumi.in/?p=228
 permalink: /nanak-hearing/
 image: /wp-content/uploads/2017/07/flower-gramophone-1359046.jpg
 categories:

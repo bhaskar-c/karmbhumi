@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (अनुभव/experie
 date: 2017-01-01T15:09:40+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=142
+guid: http://karmbhumi.in/?p=142
 permalink: /kabir-experience/
 image: /wp-content/uploads/2017/01/experience.jpeg
 categories:

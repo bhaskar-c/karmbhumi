@@ -4,7 +4,7 @@ title: कबीर के दोहे | Kabir ke Dohe (Devotee/भक्त)
 date: 2016-09-28T18:43:57+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=92
+guid: http://karmbhumi.in/?p=92
 permalink: /kabir-devotee/
 image: /wp-content/uploads/2016/09/prayer-devotion-hands-2-1307826.jpg
 categories:

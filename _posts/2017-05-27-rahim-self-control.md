@@ -4,7 +4,7 @@ title: रहीम के दोहे | Rahim ke Dohe ( नियंत्र�
 date: 2017-05-27T04:07:55+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=189
+guid: http://karmbhumi.in/?p=189
 permalink: /rahim-self-control/
 image: /wp-content/uploads/2016/09/thinking-kid-1428260.jpg
 categories:

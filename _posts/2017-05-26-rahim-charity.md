@@ -4,7 +4,7 @@ title: रहीम के दोहे | Rahim ke Dohe (दान/Charity)
 date: 2017-05-26T05:27:54+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=185
+guid: http://karmbhumi.in/?p=185
 permalink: /rahim-charity/
 image: /wp-content/uploads/2016/11/hands-demanding-1520323.jpg
 categories:

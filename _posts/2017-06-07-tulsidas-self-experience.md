@@ -4,7 +4,7 @@ title: तुलसीदास के दोहे | Tulsidas ke Dohe (आत�
 date: 2017-06-07T08:33:33+00:00
 author: bha10071
 layout: post
-guid: http://karmabhumi.org/?p=215
+guid: http://karmbhumi.in/?p=215
 permalink: /tulsidas-self-experience/
 image: /wp-content/uploads/2016/09/greed.jpg
 categories:
