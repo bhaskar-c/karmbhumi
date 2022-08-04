@@ -21,15 +21,15 @@ sass:
 
 # Site
 ## You can create a locale setting at _locales and name *.yml
-title: "Karmabhumi.org"
+title: "Karmbhumi.in"
 description: "Sayings of Indian Seers"
-keywords: "Pithy"
+keywords: "Sayings of Kabir, Raskhan, Guru Nanak, Rahim, Shankaracharya, Upanishad, Patanjali and other great Indian seers"
 locale: "en_IN"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and baseurl as '/child/'
 url: "bhaskar-c.github.io"
-baseurl: "karmabhumi"
+baseurl: "karmbhumi.in"
 permalink: /:year/:month/:day/:title
 
 
